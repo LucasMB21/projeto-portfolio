@@ -35,3 +35,9 @@ Header {
   color: var(--texto);
   padding: 10px;
 }
+
+nav#menu ul {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+}
