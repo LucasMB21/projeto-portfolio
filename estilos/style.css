@@ -34,6 +34,9 @@ Header {
   background-color: var(--destaque);
   color: var(--texto);
   padding: 10px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
 }
 
 nav#menu ul {
